@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537605579835",
+    "project_id": "location-app-5aa0d",
+    "storage_bucket": "location-app-5aa0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537605579835:android:8ad4ec7705cf8e684ba81e",
+        "android_client_info": {
+          "package_name": "com.jaytaravia.camerawithgeographiclocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537605579835-69cbrjsh1ou6b2chnitag2isi17a00s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8OYxLqkUYi80ChrXbifyEinyrR7i_Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537605579835-69cbrjsh1ou6b2chnitag2isi17a00s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
